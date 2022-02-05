@@ -1,16 +1,18 @@
 # House price prediction
 
-## Dépendance
-<ul>
-    <li>Python 3 (recommander d'utiliser Anaconda)</li>
-    <li>matplotlib, seaborn, xgboost</li>
-</ul>
 <p>Le project se fait en 3 étapes distinct: </p>
 <ul>
     <li>Le prétraitement des données</li>
     <li>L'exploration des données</li>
     <li>La modélisation</li>
 </ul>
+
+## Dépendance
+<ul>
+    <li>Python 3 (recommander d'utiliser Anaconda)</li>
+    <li>matplotlib, seaborn, xgboost</li>
+</ul>
+
 
 ## Test
 <p>L'execution du projet via Jupiter enregistre à chaque fois une nouvelle version des données et suit un ordre bien défini comme suit:</p>
